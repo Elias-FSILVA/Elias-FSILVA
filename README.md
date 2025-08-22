@@ -39,7 +39,7 @@
 ---
 
 ## ⚡ Curiosidades
-- Adoro **resolver problemas com código e criatividade**  
+- Gosto de **resolver problemas com código e criatividade**  
 - Sempre em busca de **projetos que fazem diferença real**
 - Café é combustível ☕  
 

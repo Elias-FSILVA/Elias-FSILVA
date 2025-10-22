@@ -1,6 +1,6 @@
 # 👋 Fala, eu sou o Elias!
 
-💻 Estudante de Ciência da Computação | Dev Web & TI  
+💻 Estudante de Ciência da Computação | Dev & TI  
 📍 Matipó, Brasil  
 
 ---
